@@ -1,3 +1,5 @@
+An Emerging Model of overcoming Modernism:
+
 A good friend asked me what "Post Modernism" is.
 He said, "I know what physics is like I know what a black hole is, there must be something which attracts this word".
 
