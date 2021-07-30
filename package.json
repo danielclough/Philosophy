@@ -1,0 +1,41 @@
+{
+  "name": "daniel-clough-philosophy",
+  "version": "0.0.1",
+  "description": "daniel-clough-philosophy",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "eleventy --serve",
+    "build": "eleventy",
+    "test": "npm run build",
+    "lint": "eslint . --ext .js --cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielclough/philosophy.git"
+  },
+  "keywords": [
+    "eleventy",
+    "jamstack",
+    "blackcoinmore",
+    "blackcoin",
+    "cryptocurrency"
+  ],
+  "author": "BlackcoinMoreTeam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielclough/philosophy/issues"
+  },
+  "homepage": "https://github.com/danielclough/philosophy#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "clean-css": "^4.2.1",
+    "eslint-utils": "3.0.0",
+    "html-minifier": "^4.0.0"
+  },
+  "devDependencies": {
+    "eleventy-plugin-lazyimages": "^2.1.0",
+    "eleventy-plugin-local-images": "^0.4.1",
+    "eslint": "7.30.0"
+  }
+}
